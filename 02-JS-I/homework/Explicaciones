@@ -1,0 +1,12 @@
+Variables:
+Es algo que se puede definir por medio de varios elementos que se puedan identificar, es como si se determinara una serie de informacio'n por medio de un esta'ndar como por ejemplo "nombre", la palabra nombre es estandar, pero existen enemil nombres.
+
+Strings:
+Lo comprendi' ma's facilmente asumiendo que es directamente un texto envuelto ya sea entre comillas simples o dobles.
+
+Funciones (argumentos, return):
+La parte de las funciones, me parece que son determinantes para las acciones que ejecuta un co'digo, los argumentos es la informacio'n que necesita analizar para que con la funcio'n return la pueda mostrar al usuario
+Declaraciones If :
+Tal cual se relaciona la misma declaracio'n que excel, comenzando por la afirmacio'n de un argumento y en el caso de no cumplirse dicha afirmacio'n, retorna otra opcio'n antes definida, es decir, si no es lo uno es porque es lo otro.
+Valores booleanos:
+Son aquellas situaciones donde se encuentran dos opciones de respuesta, en este caso seri'a solamente verdadero o falso.
