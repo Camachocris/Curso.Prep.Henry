@@ -1,0 +1,13 @@
+For:
+Es un muy mencionado bucle que se usa ba'sicamente para ejecutar un bloque de co'digo varias veces con ciertas condiciones de frecuencia, y deja de ejecutarse al encontrar una falsedad.
+En caso tal que las condiciones iniciales no se cumplan, no se ejecutara' el co'digo
+
+&&:
+El "and" sirve para condicionar funciones y es muy literal con su significado ya que tiene en cuenta las distintas opciones o argumentos a ejecutar.
+
+||:
+El "Or" sirve tambien para condicionar funciones de tal manera que puede descartar algunas opciones por otras, como si solo escogese la una o la otra dependiendo de la necesidad.
+
+!:
+El "Not" es para decirle NO al interprete o cuando necesito darle vuelta al resultado de uno de los dos booleanos. 
+
